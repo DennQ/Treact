@@ -737,3 +737,14 @@ header .row {
     width: 256px;
     opacity: 0.25;
 }
+
+/* TESTIMONIAL */
+
+#testimonials .row {
+    display: flex;
+}
+
+.testimonials__img,
+.testimonials__description {
+    width: 50%;
+}
